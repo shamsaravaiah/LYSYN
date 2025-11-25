@@ -284,7 +284,7 @@ export default function Home() {
           }}
         >
           <Image
-            src="/ChatGPT Image Nov 25, 2025, 05_00_46 PM (1).png"
+            src="/logoimg.png"
             alt="LiSYN Logo"
             width={300}
             height={300}
@@ -358,7 +358,7 @@ export default function Home() {
           {sidebarOpen && (
             <div>
               <Image
-                src="/ChatGPT Image Nov 25, 2025, 05_00_46 PM (1).png"
+                src="/logoimg.png"
                 alt="LiSYN"
                 width={120}
                 height={40}
@@ -627,7 +627,7 @@ export default function Home() {
             }}
           >
             <Image
-              src="/ChatGPT Image Nov 25, 2025, 05_00_46 PM (1).png"
+              src="/logoimg.png"
               alt="LiSYN"
               width={100}
               height={33}
