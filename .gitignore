@@ -1,0 +1,22 @@
+# Environment variables
+.env.local
+.env*.local
+
+# Dependencies
+node_modules/
+lisyn-poc/node_modules/
+
+# Next.js
+lisyn-poc/.next/
+lisyn-poc/out/
+lisyn-poc/.vercel/
+
+# Build files
+*.tsbuildinfo
+lisyn-poc/next-env.d.ts
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
